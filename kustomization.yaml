@@ -6,3 +6,4 @@ bases:
 
 patchesStrategicMerge:
   - configmap-patch.yaml
+
